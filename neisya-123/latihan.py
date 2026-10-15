@@ -4,7 +4,7 @@ print("===============================")
 print("operasi tersedia: + - * /")
 print("===============================")
 
-#--- Bagian masukan pengguna ---
+#--- Bagian masukan pengguna --
 angka1 = float(input("Masukkan angka pertama: "))
 angka2 = float(input("Masukkan angka kedua: "))
 operator = input("Masukkan operator (+ - * /): ")
